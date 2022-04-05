@@ -42,3 +42,5 @@ Certaines dispositions du règlement européen (UE) 2019/2088 dit Sustainable Fi
 
 ![fe](https://user-images.githubusercontent.com/87573896/161527716-00b4f7bf-ac49-4ad0-baf8-d4bc16c08d1c.png)
 
+# **Conclusion** 
+Oups, il faut se transformer et devenir environnementalement responsable 🌳.
