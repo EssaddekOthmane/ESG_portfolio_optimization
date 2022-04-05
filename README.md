@@ -27,6 +27,21 @@ Si on investi 1 euro le 11/2020 dans chaque portefeuille, le graphique suivant r
 
 Certaines dispositions du règlement européen (UE) 2019/2088 dit Sustainable Finance Disclosure (SFDR) entrent en application le 10 mars 2021. L’AMF précise aujourd’hui l’articulation de ces nouvelles obligations avec les exigences nationales, et la position-recommandation DOC-2020-03 sur les informations à fournir par les placements collectifs intégrant des approches extra-financières.
 
+#### Définition de deux nouvelles catégories de produits présentant des caractéristiques extra-financières
+
+Le règlement SFDR définit notamment deux catégories de produits :
+
+*    les produits qui promeuvent des caractéristiques environnementales et/ou sociales (produits dits « article 8 ») et ;
+*    les produits qui ont pour objectif l’investissement durable (produits dits « article 9 »).
+
+
+
+Il revient aux sociétés de gestion d’identifier les produits relevant des articles 8 et 9 du règlement SFDR et d’appliquer les exigences de transparence correspondantes prévues dans le règlement. A ce stade, l’AMF ne prévoit pas de préciser les définitions dans le règlement SFDR. Des clarifications pourraient, en revanche, être apportées ultérieurement par la Commission européenne ou les autorités européennes de supervision.
+
+Les premières dispositions du règlement SFDR entreront en application au 10 mars 2021. La Commission européenne a récemment précisé dans un courrier adressé aux autorités européennes de supervision que les actes délégués venant préciser certains aspects de ce règlement seraient publiés ultérieurement, sans préjudice de l’application des dispositions prévues par le règlement. Les sociétés de gestion doivent donc se mettre en conformité avec les dispositions du règlement applicables à partir du 10 mars 2021 selon les principes généraux définis par le règlement.
+
+
+
 ## **frontière efficiente**
 
 **Score ESG AAA**
