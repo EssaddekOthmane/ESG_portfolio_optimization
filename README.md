@@ -35,7 +35,8 @@ Certaines dispositions du règlement européen (UE) 2019/2088 dit Sustainable Fi
 
 **Score ESG CCC**
 
-![fea](https://user-images.githubusercontent.com/87573896/161527638-89cce446-9456-42da-81ec-75c2f6bc670d.png)
+![CCC](https://user-images.githubusercontent.com/87573896/161781135-99b25ee8-adcd-4083-bc61-9e30ae180311.png)
+
 
 **Score ESG GAFAN**
 
