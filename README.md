@@ -1,17 +1,17 @@
 # portfolio-optimization
 
-Nous alons utiliser la methodologie *esperance-variance* pour optimiser deux portfeuils.
+Nous alons utiliser la méthodologie *esperance-variance* pour optimiser trois portefeuilles.
 
-*   **Le premier :** un portfeuil qui contient  5 actifs risqués avec le meilleur score **ESG** sur le **NASDAQ**.
+*   **Le premier :** un portefeuille qui contient  5 actifs risqués avec le meilleur score **ESG** sur le **NASDAQ**.
 
-*   **Le deuxieme :** un portfeuil qui contient 5 actifs risqués avec le pire score **ESG** sur le **NASDAQ**
+*   **Le deuxieme :** un portefeuile qui contient 5 actifs risqués avec le pire score **ESG** sur le **NASDAQ**
 
 
-On prend également un troisième portfeuil qui contient des entreprises avec beaucoup de liquidité pour comparer. 
+On prend également un troisième portefeuille qui contient des entreprises avec beaucoup de liquidité pour comparer. 
 
 #### **Remarque :**
 
-Si on investi 1 euro le 11/2020 dans chaque portefeuille, le graphique suivant represante l'evolution de l'euro investi.
+Si on investit 1 euro en novembre 2020 dans chaque portefeuille, le graphique suivant représente l'évolution de l'euro investi.
 
 
 1.   **En vert :** Score ESG=AAA
