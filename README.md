@@ -2,9 +2,9 @@
 
 Nous alons utiliser la méthodologie *esperance-variance* pour optimiser trois portefeuilles.
 
-*   **Le premier :** un portefeuille qui contient  5 actifs risqués avec le meilleur score **ESG** sur le **NASDAQ**.
+*   **Le premier :** un portefeuille qui contient  5 actions avec le meilleur score **ESG** sur le **NASDAQ**.
 
-*   **Le deuxieme :** un portefeuile qui contient 5 actifs risqués avec le pire score **ESG** sur le **NASDAQ**
+*   **Le deuxieme :** un portefeuile qui contient 5 actions avec le pire score **ESG** sur le **NASDAQ**
 
 
 On prend également un troisième portefeuille qui contient des entreprises avec beaucoup de liquidité pour comparer. 
