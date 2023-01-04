@@ -58,4 +58,4 @@ Les premières dispositions du règlement SFDR entreront en application au 10 ma
 ![fe](https://user-images.githubusercontent.com/87573896/161527716-00b4f7bf-ac49-4ad0-baf8-d4bc16c08d1c.png)
 
 # **Conclusion** 
-Oups, il faut se transformer et devenir environnementalement responsable 🌳.
+Il faut se transformer et devenir environnementalement responsable 🌳.
