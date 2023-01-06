@@ -21,9 +21,9 @@ Si on investit 1 euro en novembre 2020 dans chaque portefeuille, le graphique su
 
 ![ESG](https://user-images.githubusercontent.com/87573896/161515426-cd21ca92-2fe4-42f7-97b7-1a9509ff5e6d.png)
 
-**Remarque :** But, what happened on 05/2021 😲 ?
+**Remarque :** Mais qu'est-ce qui s'est passé en Mars 2021 ?
 
-### Entrée en application au 10 mars 2021 du règlement SFDR pour les sociétés de gestion de portefeuille.
+### Entrée en application au 10 Mars 2021 du règlement SFDR pour les sociétés de gestion de portefeuille.
 
 Certaines dispositions du règlement européen (UE) 2019/2088 dit Sustainable Finance Disclosure (SFDR) entrent en application le 10 mars 2021. L’AMF précise aujourd’hui l’articulation de ces nouvelles obligations avec les exigences nationales, et la position-recommandation DOC-2020-03 sur les informations à fournir par les placements collectifs intégrant des approches extra-financières.
 
