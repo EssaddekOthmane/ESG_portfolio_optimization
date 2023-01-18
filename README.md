@@ -37,8 +37,8 @@ En mars 2021, la SEC a créé la Task Force Climat et Environnement, Social et G
 
 Le règlement définit notamment deux catégories de produits :
 
-*    les produits qui promeuvent des caractéristiques environnementales et/ou sociales (produits dits « article 8 ») et ;
-*    les produits qui ont pour objectif l’investissement durable (produits dits « article 9 »).
+*    les produits qui promeuvent des caractéristiques environnementales et/ou sociales  et ;
+*    les produits qui ont pour objectif l’investissement durable .
 
 
 
