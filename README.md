@@ -21,7 +21,7 @@ Si on investit 1 euro en novembre 2020 dans chaque portefeuille, le graphique su
 
 ![ESG](https://user-images.githubusercontent.com/87573896/161515426-cd21ca92-2fe4-42f7-97b7-1a9509ff5e6d.png)
 
-![volume](https://user-images.githubusercontent.com/87573896/212044787-3877276c-d8d5-4102-b8ea-d03b5cce15f7.png)
+<img width="193" alt="volume" src="https://user-images.githubusercontent.com/87573896/213926012-96962311-dc21-4b75-ba4a-cfe2648916d0.png">
 
 **Remarque :** Mais qu'est-ce qui s'est passé en Mars 2021 ?
 
