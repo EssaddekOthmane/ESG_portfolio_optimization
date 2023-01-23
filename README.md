@@ -47,7 +47,7 @@ Le règlement définit notamment deux catégories de produits :
 *    les produits qui ont pour objectif l’investissement durable .
 
 
-## La SEC annonce la création d'un groupe de travail sur l'application de la loi axé sur les questions climatiques et ESG
+### La SEC annonce la création d'un groupe de travail sur l'application de la loi axé sur les questions climatiques et ESG
 
 Washington D.C., le 4 mars 2021
 La Securities and Exchange Commission a annoncé aujourd'hui la création d'un groupe de travail sur le climat et les questions ESG au sein de la Division of Enforcement.  Le groupe de travail sera dirigé par Kelly L. Gibson, directeur adjoint par intérim de l'application, qui supervisera un effort à l'échelle de la division, avec 22 membres provenant du siège de la SEC, des bureaux régionaux et des unités spécialisées de l'application.
